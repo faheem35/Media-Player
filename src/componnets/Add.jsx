@@ -44,7 +44,7 @@ const Add = ({setAddResponseFromHome}) => {
                    
                     alert("video uploaded successfully")
                     handleClose()
-                    //pass the result to view component
+                    //pass the result to home component to get updation on view component
                     setAddResponseFromHome(result)
 
 

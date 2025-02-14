@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
                     React with API project steps
                     -----------------------------
-                    1.Create a react project using vie
+                    1.Create a react project using vite
                     2.Remove unwanted code from APP.CSS, APP.JSX, index.CSS
                     3.Install any styling library to project
                     4.create a folder for different pages for this application in src folder.

@@ -45,7 +45,7 @@ const removeHistory=async (id)=>{
     <div style={{ paddingTop: '100px' }}>
       <div className='d-flex justify-content-between container'>
 
-        <h3>Watch History</h3>
+        <h3 >Watch History</h3>
         <Link to={'/home'}>Back to Home</Link>
       </div >
 

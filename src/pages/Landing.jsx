@@ -15,8 +15,8 @@ const Landing = () => {
     <div className="row align-items-center min-vh-100" >
     {/* Landing content */}
     <div className="col-lg-5 ">
-      <h3 className='mb-3'>Welcome to <span className='text-warning'>Media Player</span></h3>
-      <p style={{textAlign:'justify'}} className='mb-4'>Media Player App will allow user to add or remove their uploaded videos from youTube and also allow them to arrange it in different categories by drag and drop. User can also have the provision to manage their watch history as well. What are you waiting for, let starts exploring our site!!!</p>
+      <h3 className='mb-3'>Welcome to <span className='text-warning'>Echo Play</span></h3>
+      <p style={{textAlign:'justify'}} className='mb-4'>Echo Play App will allow user to add or remove their uploaded videos from youTube and also allow them to arrange it in different categories by drag and drop. User can also have the provision to manage their watch history as well. What are you waiting for, let starts exploring our site!!!</p>
       <Link to={'/home'} className='btn btn-info'>Get Started</Link>
     </div>
     <div className="col"></div>

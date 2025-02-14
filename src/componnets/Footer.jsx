@@ -3,16 +3,16 @@ import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
-    <div style={{height:'300px'}} className='mt-5 container w-100'>
+    <div style={{height:'300px'}} className='mt-5 container w-100 '>
       <div className='d-flex justify-content-between'>
       
         {/* intro */}
         <div>
         <h5>
           <i className="fa-solid fa-music me-3"></i>
-          Media Player
+          Echo Play
         </h5>
-        <p>Designed and built with all the love in the world <br /> by the Luminar team with the help of our contributors.</p>
+        <p>Designed and built with all the love in the world <br /> by the Echo Play team with the help of our contributors.</p>
         <p>Code licensed MIT, docs CC BY 3.0.</p>
         <p>Currently v5.3.3.</p>
         
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
         </div>
         </div>
-      <p className='text-center mt-3'>Copyright ©Media Player Inc. All rights reserved.</p>
+      <p className='text-center mt-3'>Copyright ©Echo Play Inc. All rights reserved.</p>
     </div>
   )
 }

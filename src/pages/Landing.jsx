@@ -129,7 +129,7 @@ const Landing = () => {
       </Row>
 
       {/* Features Section */}
-      <div className='my-5 text-center'>
+      <div className='mb-5 text-center'>
         <h3>Features</h3>
         <Row className='mt-5 justify-content-center'>
           {[{img: feature1, title: 'Managing Videos', text: 'Users can upload, view, and remove videos.'},

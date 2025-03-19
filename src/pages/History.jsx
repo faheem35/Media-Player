@@ -127,8 +127,8 @@ const History = () => {
   };
 
   return (
-    <Container style={{ paddingTop: '100px' }}>
-      <div className="d-flex justify-content-between align-items-center mb-4">
+    <Container  style={{ paddingTop: '100px' }}>
+      <div className="d-flex justify-content-between align-items-center mb-4 ">
         
           <h4>Watch History</h4>
        

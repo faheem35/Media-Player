@@ -103,7 +103,7 @@ const Category = ({setDeleteResponseFromCategory, deleteResponseFromView}) => {
   <>
       <div className='d-flex justify-content-between  align-items-center'>
         <h3>All Categories</h3>
-        <button onClick={handleShow} className='btn btn-info ms-3 rounded-circle fw-bolder fs-5'>+</button>
+        <button onClick={handleShow} className='btn btn-warning ms-3 rounded-circle fw-bolder fs-5'>+</button>
   
       </div>
 {/* display all categories */}
